@@ -1,5 +1,6 @@
 package inhertanceexample;
 import java.io.*;
+//inheretance editing parent class
 
 public class parents {
     public static void main(String args[])
