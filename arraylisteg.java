@@ -3,7 +3,7 @@ import java.util.*;
 
 public class arraylisteg {
     public static void main(String args[]){
-        //creating a list
+        //creating the list to get o/p
         //list in java provides the facility to maintain the ordered collection
         List<String>list=new ArrayList<String>();
         //Adding elements in the list
